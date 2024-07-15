@@ -36,16 +36,16 @@ Toán tử kiểm tra thành viên: in, not
 3. Mệnh đề điều kiện và vòng lặp
 Mệnh đề điều kiện:
 if condition1:
-    # Khối lệnh được thực thi nếu condition1 đúng
+    #Khối lệnh được thực thi nếu condition1 đúng
 elif condition2:
-    # Khối lệnh được thực thi nếu condition2 đúng
+    #Khối lệnh được thực thi nếu condition2 đúng
 else:
-    # Khối lệnh được thực thi nếu tất cả các điều kiện trên đều sai
+    #Khối lệnh được thực thi nếu tất cả các điều kiện trên đều sai
 Vòng lặp:
   for:
       for item in iterable:
-    # Khối lệnh được thực thi cho mỗi phần tử trong iterable
+    #Khối lệnh được thực thi cho mỗi phần tử trong iterable
   while: 
       while condition:
-    # Khối lệnh được thực thi khi điều kiện đúng
+    #Khối lệnh được thực thi khi điều kiện đúng
 4. Kiểu dữ liệu True, False
