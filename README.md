@@ -13,35 +13,35 @@ float: Số thực, ví dụ: 3.14.
 complex: Số phức, ví dụ: 3+5j.
 - Chuỗi (String):
 str: Chuỗi ký tự, ví dụ: "Hello, world!".
--Danh sách (List):
--list: Danh sách có thể thay đổi, ví dụ: [1, 2, 3].
--Bộ dữ liệu (Tuple):
+- Danh sách (List):
+- list: Danh sách có thể thay đổi, ví dụ: [1, 2, 3].
+- Bộ dữ liệu (Tuple):
 tuple: Bộ không thể thay đổi, ví dụ: (1, 2, 3).
--Tập hợp (Set):
+- Tập hợp (Set):
 set: Tập hợp không trùng lặp, ví dụ: {1, 2, 3}.
--Từ điển (Dictionary):
+- Từ điển (Dictionary):
 dict: Cặp khóa-giá trị, ví dụ: {'key1': 'value1'}.
--Boolean (Bool):
+- Boolean (Bool):
 bool: True hoặc False.
--NoneType:
+- NoneType:
 None: Biểu thị sự vắng mặt của giá trị.
 2. Các toán tử trong Python
--Toán tử số học: +, -, *, /, %, **, //
--Toán tử so sánh: =, !=, >, <, <=, >=
--Toán tử gán: =, +=, -=, *=, /=, **=, %=, //=
--Toán tử bit: &, |, ^, ~, <<, >>
--Toán tử logic: and, or, not
--Toán tử kiểm tra danh tính: is, is not
--Toán tử kiểm tra thành viên: in, not 
+- Toán tử số học: +, -, *, /, %, **, //
+- Toán tử so sánh: =, !=, >, <, <=, >=
+- Toán tử gán: =, +=, -=, *=, /=, **=, %=, //=
+- Toán tử bit: &, |, ^, ~, <<, >>
+- Toán tử logic: and, or, not
+- Toán tử kiểm tra danh tính: is, is not
+- Toán tử kiểm tra thành viên: in, not 
 3. Mệnh đề điều kiện và vòng lặp
--Mệnh đề điều kiện:
+- Mệnh đề điều kiện:
 if condition1:
     #Khối lệnh được thực thi nếu condition1 đúng
 elif condition2:
     #Khối lệnh được thực thi nếu condition2 đúng
 else:
     #Khối lệnh được thực thi nếu tất cả các điều kiện trên đều sai
--Vòng lặp:
+- Vòng lặp:
   for:
       for item in iterable:
     #Khối lệnh được thực thi cho mỗi phần tử trong iterable
