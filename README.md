@@ -1,5 +1,5 @@
 # HIT_PITHON_PUBLIC_2024
-Bài 1: Python là ngôn ngữ thông dịch hay biên dịch? Tại sao?
+'Bài 1: Python là ngôn ngữ thông dịch hay biên dịch? Tại sao?
 Python là một ngôn ngữ lập trình thông dịch vì:
   Thực thi trực tiếp: Mã Python được thực thi dòng lệnh theo dòng lệnh bởi trình thông dịch Python. Điều này cho phép lập trình viên chạy mã nhanh chóng mà không cần qua giai đoạn biên dịch.
   Tính linh hoạt và phát triển nhanh: Việc không cần biên dịch trước giúp việc phát triển và gỡ lỗi mã Python nhanh chóng và dễ dàng hơn. Lập trình viên có thể thay đổi mã và chạy lại ngay lập tức để kiểm tra kết quả.
@@ -49,4 +49,4 @@ Vòng lặp:
       while condition:
     # Khối lệnh được thực thi khi điều kiện đúng
 4.Kiểu dữ liệu True, False
-
+'
