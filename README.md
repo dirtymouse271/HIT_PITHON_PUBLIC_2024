@@ -6,12 +6,12 @@ Python là một ngôn ngữ lập trình thông dịch vì:
   Khả năng đa nền tảng: Mã Python có thể chạy trên nhiều hệ điều hành khác nhau mà không cần thay đổi, miễn là có trình thông dịch Python phù hợp.
   Tính động: Python hỗ trợ kiểu dữ liệu động, tức là bạn không cần khai báo kiểu biến trước khi sử dụng. Điều này được xử lý bởi trình thông dịch trong thời gian chạy.
 # Bài 2:
-**1. Các kiểu dữ liệu trong Python:
-Số (Numeric Types):
+1. Các kiểu dữ liệu trong Python:
+- Số (Numeric Types):
 int: Số nguyên, ví dụ: 5.
 float: Số thực, ví dụ: 3.14.
 complex: Số phức, ví dụ: 3+5j.
-Chuỗi (String):
+- Chuỗi (String):
 str: Chuỗi ký tự, ví dụ: "Hello, world!".
 Danh sách (List):
 list: Danh sách có thể thay đổi, ví dụ: [1, 2, 3].
@@ -25,7 +25,7 @@ Boolean (Bool):
 bool: True hoặc False.
 NoneType:
 None: Biểu thị sự vắng mặt của giá trị.
-**2. Các toán tử trong Python
+2. Các toán tử trong Python
 Toán tử số học: +, -, *, /, %, **, //
 Toán tử so sánh: =, !=, >, <, <=, >=
 Toán tử gán: =, +=, -=, *=, /=, **=, %=, //=
@@ -33,7 +33,7 @@ Toán tử bit: &, |, ^, ~, <<, >>
 Toán tử logic: and, or, not
 Toán tử kiểm tra danh tính: is, is not
 Toán tử kiểm tra thành viên: in, not 
-**3. Mệnh đề điều kiện và vòng lặp
+3. Mệnh đề điều kiện và vòng lặp
 Mệnh đề điều kiện:
 if condition1:
     #Khối lệnh được thực thi nếu condition1 đúng
@@ -48,4 +48,4 @@ Vòng lặp:
   while: 
       while condition:
     #Khối lệnh được thực thi khi điều kiện đúng
-**4. Kiểu dữ liệu True, False
+4. Kiểu dữ liệu True, False
