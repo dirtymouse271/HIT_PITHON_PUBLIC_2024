@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HIT_PYTHON_PUBLIC_2024\\Baitapvenhabuoi2\\bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5B6F5F-B647-4CC5-B6D4-FE97916564A1}|bai6.pyproj|E:\\HIT_PYTHON_PUBLIC_2024\\Baitapvenhabuoi2\\bai6\\bai6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A5B6F5F-B647-4CC5-B6D4-FE97916564A1}|bai6.pyproj|solutionrelative:bai6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai6.py",
+              "DocumentMoniker": "E:\\HIT_PYTHON_PUBLIC_2024\\Baitapvenhabuoi2\\bai6\\bai6.py",
+              "RelativeDocumentMoniker": "bai6.py",
+              "ToolTip": "E:\\HIT_PYTHON_PUBLIC_2024\\Baitapvenhabuoi2\\bai6\\bai6.py",
+              "RelativeToolTip": "bai6.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-21T04:35:59.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
