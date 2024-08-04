@@ -1,0 +1,5 @@
+n = int(input())
+tuple_str = tuple(input() for _ in range(n))
+tuple_int = tuple(int(i) for i in tuple_str)
+sum_tuple = sum(tuple_int)
+print(sum_tuple/n)

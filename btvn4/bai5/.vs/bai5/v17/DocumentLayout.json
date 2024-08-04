@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn4\\bai5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A9B25-F70A-45D9-9037-55E98CFCE712}|bai5.pyproj|E:\\HIT_PYTHON_PUBLIC_2024\\btvn4\\bai5\\bai5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B88A9B25-F70A-45D9-9037-55E98CFCE712}|bai5.pyproj|solutionrelative:bai5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai5.py",
+              "DocumentMoniker": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn4\\bai5\\bai5.py",
+              "RelativeDocumentMoniker": "bai5.py",
+              "ToolTip": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn4\\bai5\\bai5.py",
+              "RelativeToolTip": "bai5.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-04T02:50:56.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
