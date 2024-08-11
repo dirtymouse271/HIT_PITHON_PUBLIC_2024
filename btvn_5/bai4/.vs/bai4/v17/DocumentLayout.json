@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn_5\\bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F54C0B-8772-485B-9342-85FC8CDDE691}|bai4.pyproj|E:\\HIT_PYTHON_PUBLIC_2024\\btvn_5\\bai4\\bai4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37F54C0B-8772-485B-9342-85FC8CDDE691}|bai4.pyproj|solutionrelative:bai4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai4.py",
+              "DocumentMoniker": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn_5\\bai4\\bai4.py",
+              "RelativeDocumentMoniker": "bai4.py",
+              "ToolTip": "E:\\HIT_PYTHON_PUBLIC_2024\\btvn_5\\bai4\\bai4.py",
+              "RelativeToolTip": "bai4.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-11T03:24:56.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
