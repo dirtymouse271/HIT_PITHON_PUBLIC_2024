@@ -1,0 +1,20 @@
+def calculate(operation, *args):
+    if not args:
+        return "Please provide at least one number."
+    
+    if operation == "add":
+        result = sum(args)
+        return f"The sum of the numbers is: {result}"
+    elif operation == "multiply":
+        result = 1
+        for num in args:
+            result *= num
+        return f"The product of the numbers is: {result}"
+    elif operation == "max":
+        result = max(args)
+        return f"The maximum number is: {result}"
+    elif operation == "min":
+        result = min(args)
+        return f"The minimum number is: {result}"
+    else:
+        return "Invalid operation"

@@ -1,0 +1,3 @@
+checkThuTu = lambda a, b: a if a > b else b
+
+print(checkThuTu('a','b'))

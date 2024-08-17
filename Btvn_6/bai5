@@ -1,0 +1,8 @@
+def format_phone_number(phone_number):
+    cleaned_number = ''.join(char for char in phone_number if char.isdigit())
+    if len(cleaned_number) == 10:
+        formatted_number = '({}) {}-{}'.format(cleaned_number[:3], cleaned_number[3:6], cleaned_number[6:])
+        return formatted_number
+    else:
+        print("Invalid phone number")
+print(format_phone_number("0376616774"))

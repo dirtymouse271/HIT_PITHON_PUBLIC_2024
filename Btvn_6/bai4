@@ -1,0 +1,12 @@
+def tong(n,count = 1):
+    s = 0
+    countt = count
+    while n > 0:
+        s += n % 10
+        n //= 10
+    countt+=1
+    if s < 10:
+        return s,countt
+    else:
+        return tong(s,countt)
+print(tong(123456))
